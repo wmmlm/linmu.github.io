@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image.jpg "
+  avatar           : "profile.png "
   name             : "Mu Lin"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Beijing, China"
+  School           : "Beijing Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "3120235097@bit.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
