@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png "
   name             : "Mu Lin"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  # pronouns         : # example: "she/her"  
+  # bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing, China"
   School           : "Beijing Institute of Technology"
-  uri              : # URL
+  # uri              : # URL
   email            : "3120235097@bit.edu.cn" 
 
   # Academic websites
